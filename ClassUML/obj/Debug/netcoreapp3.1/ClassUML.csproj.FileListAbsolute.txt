@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.exe
+C:\Users\yashi\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.deps.json
+C:\Users\yashi\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.runtimeconfig.json
+C:\Users\yashi\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.dll
+C:\Users\yashi\source\repos\ClassUML\ClassUML\bin\Debug\netcoreapp3.1\ClassUML.pdb
+C:\Users\yashi\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.AssemblyInfo.cs
+C:\Users\yashi\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.dll
+C:\Users\yashi\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.pdb
+C:\Users\yashi\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.genruntimeconfig.cache
